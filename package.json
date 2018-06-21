@@ -1,0 +1,15 @@
+{
+  "name": "ls",
+  "version": "1.0.0",
+  "description": "Clean up html files for linguistic analysis",
+  "main": "removeTags.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "Robert Lewis",
+  "license": "ISC",
+  "dependencies": {
+    "html-entities": "^1.2.1",
+    "striptags": "^3.1.1"
+  }
+}
